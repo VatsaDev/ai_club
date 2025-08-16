@@ -31,8 +31,6 @@ nav:
   - Leaders: leaders.md
   - Resources: resources.md
 use_directory_urls: false
-plugins:
-  - glightbox
 extra:
   generator: false
 markdown_extensions:
@@ -44,4 +42,5 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+
   - pymdownx.superfences
